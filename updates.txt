@@ -1,0 +1,7 @@
+# Aug 6
+The Pen and Eraser Tool is working
+objectives:
+- figure out layout 
+- add in colors red and blue options
+
+
